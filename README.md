@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @smithdavedesign
+- 👋 Hi, I’m Dave! @smithdavedesign 
 - 👀 I’m a hard working problem solver who is passionate about full stack development, new technology/languages, machine learning, and helping others.
-- 🌱 I’m currently learning MERN tech stack in my free time
+- 🌱 I’m currently the lead developer at Solidigm => https://www.solidigmtechnology.com/
 - 💞️ I’m looking to collaborate on intresting and challanging projects
 - 📫 How to reach me 
     
