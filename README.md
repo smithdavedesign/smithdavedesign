@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dave! @smithdavedesign 
 - 👀 I’m a hard working problem solver who is passionate about new technology, machine learning, ai, and helping others develop.
-- 🌱 I’m currently the lead developer at Solidigm => https://www.solidigmtechnology.com/
+- 🌱 I’m currently the lead developer at Solidigm => https://www.solidigm.com/
 - 💞️ I’m looking to collaborate on intresting and challanging projects
 - 📫 How to reach me 
     
