@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dave! @smithdavedesign 
-- 👀 I’m a hard working problem solver who is passionate about new technology, machine learning, ai, and helping others develop.
-- 🌱 I’m currently the lead developer at Solidigm => https://www.solidigm.com/
+- 🚀 Passionate Problem Solver | Code, Coffee, and a Pinch of AI | Building a Better Tomorrow!
+- 🌱 I’m currently the Sr. tech lead at Solidigm => https://www.solidigm.com/
 - 💞️ I’m looking to collaborate on intresting and challanging projects
 - 📫 How to reach me 
     
@@ -8,7 +8,7 @@
     Email: smithdavedesign@gmail.com
 
 -  https://www.linkedin.com/in/codingforgood/
--  https://smithdavedesign.herokuapp.com/landingPage
+-  https://smithdavedesign.herokuapp.com/
 -  https://www.instagram.com/smithdavedesign/
 -  https://www.facebook.com/smithdavedesign
 -  https://twitter.com/DavidGeorgeSmi4
