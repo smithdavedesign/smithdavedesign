@@ -12,6 +12,3 @@
 -  https://www.instagram.com/smithdavedesign/
 -  https://www.facebook.com/smithdavedesign
 -  https://twitter.com/DavidGeorgeSmi4
-Last updated on: Sat Sep 23 02:29:26 UTC 2023
-Last updated on: Sun Sep 24 01:09:53 UTC 2023
-Last updated on: Mon Sep 25 01:07:09 UTC 2023
