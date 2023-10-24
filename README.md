@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on intresting and challanging projects
 - 📫 How to reach me
 - 
-      Cell: 530-601-1922
-      Email: smithdavedesign@gmail.com
+      530-601-1922
+-
+      smithdavedesign@gmail.com
   
 -  https://www.linkedin.com/in/codingforgood/
 -  https://smithdavedesign.herokuapp.com/
