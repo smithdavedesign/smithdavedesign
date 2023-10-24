@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Dave! https://smithdavedesign.herokuapp.com 
+- 👋 Hi, I’m Dave Smith! 
 - 🚀 Passionate Problem Solver | Code, Coffee, and a Pinch of AI | Building a Better Tomorrow!
-- 🌱 I’m currently the Sr. tech lead at Solidigm => https://www.solidigm.com/
-- 💞️ I’m looking to collaborate on intresting and challanging projects
+- 🌱 I’m currently a Sr. tech lead at Solidigm => https://www.solidigm.com/
 - 📫 How to reach me
 - 
       530-601-1922
 -
       smithdavedesign@gmail.com
   
--  https://www.linkedin.com/in/codingforgood/
--  https://smithdavedesign.herokuapp.com/
--  https://www.instagram.com/smithdavedesign/
 
+
+
+
+Portfolio : https://smithdavedesign.herokuapp.com/ hosted on ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
