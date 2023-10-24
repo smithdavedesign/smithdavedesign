@@ -1,8 +1,16 @@
-👋 Hi, I’m Dave Smith! 
+👋 Passionate problem solver | code, coffee, and a pinch of AI | building a better tomorrow!
 
-🚀 Passionate problem solver | code, coffee, and a pinch of AI | building a better tomorrow!
+🌱 I’m currently a Sr. tech lead at Solidigm https://www.solidigm.com/
 
-🌱 I’m currently a Sr. tech lead at Solidigm => https://www.solidigm.com/
+📫 How to reach me
+
+-
+      530-601-1922
+-
+      smithdavedesign@gmail.com
+
+
+My portfolio : https://smithdavedesign.herokuapp.com/ 
 
 🚀 My tech stack evolves continuously, adapting to the requirements of each job and project.
 
@@ -57,23 +65,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-📫 How to reach me
-
--
-      530-601-1922
--
-      smithdavedesign@gmail.com
-
-
-Portfolio : https://smithdavedesign.herokuapp.com/ 
