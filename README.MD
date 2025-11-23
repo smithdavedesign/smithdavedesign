@@ -36,30 +36,6 @@ My role often combines engineering leadership with product-level thinking—plan
 
 ---
 
-## Selected Projects
-
-These projects reflect different stages of my work, from foundational CS concepts to full-stack development and automation.
-
-**Algorithms Education Platform**  
-An interactive site teaching algorithm fundamentals using custom visualizations. Built with Node.js and Astro.  
-Focus: clarity, pedagogy, and front-end architecture.
-
-**Compiler Tooling (Lexical and Syntactical Analyzer)**  
-A low-level compiler project written in C++ to tokenize and parse input.  
-Focus: parsing logic, state machines, and implementation detail.
-
-**iOS Minesweeper App**  
-A Swift-based version of the classic game with custom logic and UI.  
-Focus: interaction design, state management, mobile architecture.
-
-**Portfolio (v2 / v3)**  
-Progression of full-stack personal sites reflecting evolving engineering and design practices.  
-Focus: component architecture, responsive systems, AEM-like patterns.
-
-If relevant, I can add more detailed READMEs to these repositories.
-
----
-
 ## Experience Summary
 
 - Lead a cross-functional engineering team (engineers, QA, design, scrum)  
@@ -92,4 +68,4 @@ My path started with early HTML/CSS experiments on Myspace, moved through a Comp
 
 ---
 
-If your work intersects documentation automation, AEM-based platforms, MCP workflows, AI tooling, or engineering leadership, I’m always open to conversations.
+If your work intersects documentation automations, MCP workflows, AI tooling, or engineering leadership, I’m always open to conversations.
