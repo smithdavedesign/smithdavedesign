@@ -1,74 +1,90 @@
-# David Smith
+# David George Smith
 
-Senior Full Stack Engineer, Engineering Manager, and Product Owner. I build the AI-powered systems that engineering teams run on — MCP integrations, LLM automation pipelines, copilot adoption dashboards — and lead the people who use them. I sit at the layer above the automation.
+**Senior Full Stack Engineer · Engineering Manager · Product Owner · AI Enablement Lead**
 
-My background spans front-end architecture, documentation automation, legacy platform modernization, design systems, and cross-functional leadership. I’m currently leading engineering initiatives at Solidigm, a SK hynix company, while developing internal tools that support technical documentation and design-to-engineering workflows.
+I build the AI-powered systems that engineering teams run on — MCP integrations, LLM automation pipelines, copilot adoption dashboards — and lead the people who use them. I sit at the layer above the automation: I set strategy, manage engineers, own product decisions, and measure what AI is actually worth.
 
 ---
 
 ## Current Work
 
 ### Figma → Jira / Wiki Automation
-Leverages LLM + Figma MCP + API integration that generates Jira tickets and wiki docs directly from design context. Owned end-to-end: product definition, stakeholder alignment with PMs and Scrum Masters, and engineering execution. Eliminates manual documentation labor across the org.
+LLM + Figma MCP + API integration that auto-generates Jira tickets and technical wiki docs directly from design context. Owned end-to-end: product definition, stakeholder alignment with PMs and Scrum Masters, and engineering execution. Eliminates manual documentation labor across the org.
 
+### Copilot ROI Dashboard
+Real-time benchmarks, AI adoption trends, team-level analysis, and ROI calculator — giving CTOs and engineering managers visibility into what AI enablement is actually delivering. Built to make the business case for AI investment legible at the executive level.
 
-### AI Enablement & Copilot ROI Dashboard
-Designed and built a real-time dashboard giving CTOs and engineering managers visibility into copilot adoption, team-level trends, and ROI. Also created and led an org-wide AI learning series covering MCP, Skills, IDE optimization, and workflow automation. The human infrastructure that makes AI adoption actually stick.
+### QA Test Case Automation
+Automated test case generation pipeline via Storybook and MCP servers. Reduces manual QA effort while maintaining quality standards team-wide.
 
-### Corporate Website Modernization (Technical Lead)
-I lead the engineering team responsible for Solidigm’s corporate site, including the redesign and modernization of the platform. Focus areas include performance, SEO, responsive architecture, content systems, AEM component updates, design tokens, accessibility, and the alignment between design, product, and engineering.  
-This work involves both hands-on engineering and managing execution across an offshore team.
+### AI Learning Series (Internal)
+Created and led an org-wide curriculum covering MCP workflows, Skills, IDE optimization, and AI-augmented engineering practices. The human infrastructure that makes AI adoption actually stick.
 
-### How I Lead - Manage cross-functional engineering teams (engineers, QA, design, scrum) 
-Own product roadmaps and sprint planning end-to-end - Translate ambiguous requirements into clear technical direction - Run scrum ceremonies: standups, sprint planning, retros, stakeholder demos - Build AI adoption strategies and measure ROI for executive audiences I combine engineering depth with product ownership — the combination that lets me hold both the technical vision and the business outcome.
+---
+
+## How I Lead
+
+- Manage cross-functional engineering teams (engineers, QA, design, scrum)
+- Own product roadmaps and sprint planning end-to-end
+- Translate ambiguous business requirements into clear technical direction
+- Run scrum ceremonies: standups, sprint planning, retrospectives, stakeholder demos
+- Build AI adoption strategies and measure ROI for executive audiences
+- Create the tooling and documentation systems that outlast individuals
+
+I combine engineering depth with product ownership — the combination that lets me hold both the technical vision and the business outcome at the same time.
 
 ---
 
 ## How I Work
 
 I tend to focus on:
-- Creating structure around ambiguous requirements  
-- Translating product goals into clear technical direction  
-- Improving documentation, both internal and customer-facing  
-- Building automated tools that replace repetitive work  
-- Designing scalable component and layout systems  
-- Strengthening communication between product, design, and engineering  
-- Ensuring teams have the context and clarity they need to execute well  
 
-My role often combines engineering leadership with product-level thinking—planning, clarifying priorities, managing tradeoffs, and establishing systems that outlast individuals.
-
----
-
-## Experience Summary
-
-- Lead a cross-functional engineering team (engineers, QA, design, scrum)  
-- Modernize legacy codebases, dispatchers, and front-end platforms  
-- Build internal developer tools and documentation systems  
-- Manage cross-functional planning and engineering roadmaps  
-- Work across marketing engineering, product requirements, and design integration  
-- Simplify processes for teams working in AEM, design systems, or distributed environments  
-
-My path started with early HTML/CSS experiments on Myspace, moved through a Computer Science degree at Sonoma State University, and grew through roles at UC Davis and Madison Logic where I built internal tools, systemized documentation, and modernized large marketing engineering platforms.
+- Creating structure around ambiguous requirements
+- Translating product goals into clear technical direction
+- Building automated tools that replace repetitive work
+- Designing scalable component and layout systems
+- Strengthening communication between product, design, and engineering
+- Ensuring teams have the context and clarity they need to execute well
 
 ---
 
 ## Technologies
 
-**Languages:** JavaScript, TypeScript, SCSS, HTML/HTL, Java (AEM), Node.js, Swift, C++  
-**Platforms:** Adobe Experience Manager (6.5), Figma, Jira, Confluence, GitHub Actions  
-**Focus Areas:** architecture, documentation systems, AEM component engineering, design tokens, AI-assisted workflows, CI/CD  
-**Other:** MCP, skills, Workflows, system design, responsive strategies, technical writing, team leadership
+**AI & LLM:** MCP Servers, LLM Integration, Claude Code, CoPilot, Figma MCP, Storybook Automation, Agentic Workflows, DataIku
+
+**Languages:** JavaScript, TypeScript, Node.js / NestJS, React, Angular, PHP, Python, C++, Swift, Java
+
+**Infrastructure:** AWS, Docker, Vercel, Cloudflare, Supabase, Linux/UNIX, Git, GitHub Actions, CI/CD
+
+**Databases:** MongoDB, MySQL, MSSQL, Snowflake, Redis
+
+**Tools:** Figma, Jira, Confluence, AEM, Miro, VS Code, Bitbucket
+
+---
+
+## Experience Summary
+
+- Lead cross-functional engineering teams (engineers, QA, design, scrum) as Engineering Manager and Product Owner
+- Architect and ship AI-powered internal tools and automation pipelines
+- Build MCP integrations and LLM workflows for enterprise engineering orgs
+- Manage product roadmaps, sprint planning, and cross-functional stakeholder alignment
+- Modernize legacy codebases, dispatchers, and front-end platforms
+- Present ROI analysis and AI enablement metrics to CTO-level audiences
+
+My path started with early HTML/CSS on Myspace, moved through a Computer Science degree at Sonoma State University, and grew through roles at UC Davis and Madison Logic where I built internal tools, systemized documentation, and modernized large marketing engineering platforms. Now at Solidigm, I lead engineering initiatives at the intersection of AI, product, and people management.
 
 ---
 
 ## What I'm Exploring
 
-- AI-supported engineering workflows that reduce repetitive work  
-- Design → engineering automation for large organizations  
-- Better documentation systems for teams working across product and design  
-- Scalable architectures for marketing platforms on AEM  
-- Ways to turn technical clarity into a predictable, repeatable process  
+- Agentic engineering workflows that give teams AI leverage at the task level
+- Design → engineering automation at organizational scale
+- Better documentation systems for teams working across product and design
+- Scalable AI adoption frameworks for large engineering orgs
+- Ways to turn technical clarity into a predictable, repeatable process
 
 ---
 
-If your work sits at the intersection of AI tooling, engineering leadership, or product ownership — I'm always open to conversations. 📧 1426davejobs@gmail.com · LinkedIn: linkedin.com/in/codingforgood
+*If your work sits at the intersection of AI tooling, engineering leadership, or product ownership — I'm always open to conversations.*
+
+📧 1426davejobs@gmail.com · [LinkedIn](https://linkedin.com/in/codingforgood) · [Portfolio](https://smithdavedesign.herokuapp.com)
