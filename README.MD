@@ -1,6 +1,6 @@
 # David Smith
 
-Engineering Manager and Technical Lead focused on building systems, improving workflows, and helping teams deliver with clarity and consistency. I operate at the intersection of engineering, product, and design, and I spend most of my time working on the processes, documentation, and technical direction that enable teams to move faster with fewer surprises.
+Senior Full Stack Engineer, Engineering Manager, and Product Owner. I build the AI-powered systems that engineering teams run on — MCP integrations, LLM automation pipelines, copilot adoption dashboards — and lead the people who use them. I sit at the layer above the automation.
 
 My background spans front-end architecture, documentation automation, legacy platform modernization, design systems, and cross-functional leadership. I’m currently leading engineering initiatives at Solidigm, a SK hynix company, while developing internal tools that support technical documentation and design-to-engineering workflows.
 
@@ -8,17 +8,18 @@ My background spans front-end architecture, documentation automation, legacy pla
 
 ## Current Work
 
-### Figma → Technical Documentation Automation
-I’m developing a Figma plugin that generates structured engineering artifacts from design files—technical wikis, Jira requirement drafts, change summaries, and handoff documentation. The goal is to reduce the time engineers and PMs spend writing repeatable documents and to create a consistent, predictable workflow between design and engineering.  
-This tool integrates MCP, structured prompt pipelines, and internal conventions.
+### Figma → Jira / Wiki Automation
+Leverages LLM + Figma MCP + API integration that generates Jira tickets and wiki docs directly from design context. Owned end-to-end: product definition, stakeholder alignment with PMs and Scrum Masters, and engineering execution. Eliminates manual documentation labor across the org.
 
-### AI and MCP Adoption at Solidigm
-I’m helping engineering and product teams adopt MCP workflows, GitHub Copilot, and other practical AI tools. This includes training, workflow design, and introducing real processes for AI-assisted requirement writing, code review augmentation, documentation generation, and internal developer tools.
+
+### AI Enablement & Copilot ROI Dashboard
+Designed and built a real-time dashboard giving CTOs and engineering managers visibility into copilot adoption, team-level trends, and ROI. Also created and led an org-wide AI learning series covering MCP, Skills, IDE optimization, and workflow automation. The human infrastructure that makes AI adoption actually stick.
 
 ### Corporate Website Modernization (Technical Lead)
 I lead the engineering team responsible for Solidigm’s corporate site, including the redesign and modernization of the platform. Focus areas include performance, SEO, responsive architecture, content systems, AEM component updates, design tokens, accessibility, and the alignment between design, product, and engineering.  
 This work involves both hands-on engineering and managing execution across an offshore team.
 
+## How I Lead - Manage cross-functional engineering teams (engineers, QA, design, scrum) - Own product roadmaps and sprint planning end-to-end - Translate ambiguous requirements into clear technical direction - Run scrum ceremonies: standups, sprint planning, retros, stakeholder demos - Build AI adoption strategies and measure ROI for executive audiences I combine engineering depth with product ownership — the combination that lets me hold both the technical vision and the business outcome.
 ---
 
 ## How I Work
@@ -68,4 +69,4 @@ My path started with early HTML/CSS experiments on Myspace, moved through a Comp
 
 ---
 
-If your work intersects documentation automations, MCP workflows, AI tooling, or engineering leadership, I’m always open to conversations.
+If your work sits at the intersection of AI tooling, engineering leadership, or product ownership — I'm always open to conversations. 📧 1426davejobs@gmail.com · LinkedIn: linkedin.com/in/codingforgood
