@@ -1,0 +1,62 @@
+<svg viewBox="0 0 860 64" xmlns="http://www.w3.org/2000/svg" width="860" height="64">
+  <defs>
+    <style>
+      @keyframes slideIn {
+        from { opacity:0; transform:translateX(-6px); }
+        to   { opacity:1; transform:translateX(0); }
+      }
+      @keyframes blink {
+        0%,100% { opacity:1; }
+        50%      { opacity:0; }
+      }
+      .pt { font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+            font-size:11px; }
+      .cr { fill:#1D9E75; animation:blink 1s step-end 2.4s infinite; }
+      .pl { fill:none; }
+      .t  { font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+            font-size:10px; font-weight:600; fill:#ffffff; }
+      .p1 { animation:slideIn 0.35s ease 0.6s  both; }
+      .p2 { animation:slideIn 0.35s ease 0.72s both; }
+      .p3 { animation:slideIn 0.35s ease 0.84s both; }
+      .p4 { animation:slideIn 0.35s ease 0.96s both; }
+      .p5 { animation:slideIn 0.35s ease 1.08s both; }
+      .p6 { animation:slideIn 0.35s ease 1.2s  both; }
+      .p7 { animation:slideIn 0.35s ease 1.32s both; }
+      .p8 { animation:slideIn 0.35s ease 1.44s both; }
+      .p9 { animation:slideIn 0.35s ease 1.56s both; }
+      .p10{ animation:slideIn 0.35s ease 1.68s both; }
+      .p11{ animation:slideIn 0.35s ease 1.8s  both; }
+    </style>
+  </defs>
+
+  <rect width="860" height="64" rx="8" fill="#f0efeb"/>
+  <text class="pt" x="20" y="22" fill="#1D9E75" font-weight="600">~/david</text>
+  <text class="pt" x="72" y="22" fill="#888780">$</text>
+  <text class="pt" x="84" y="22" fill="#444441">stack --ai-first</text>
+  <rect class="cr" x="196" y="12" width="7" height="12" rx="1"/>
+
+  <g transform="translate(20,36)">
+    <g class="p1"><rect x="0"   y="0" width="44" height="18" rx="9" fill="#1D9E75"/>
+      <text class="t" x="22"  y="13" text-anchor="middle">MCP</text></g>
+    <g class="p2"><rect x="52"  y="0" width="40" height="18" rx="9" fill="#1D9E75" opacity="0.8"/>
+      <text class="t" x="72"  y="13" text-anchor="middle">LLM</text></g>
+    <g class="p3"><rect x="100" y="0" width="92" height="18" rx="9" fill="#534AB7"/>
+      <text class="t" x="146" y="13" text-anchor="middle">Claude Code</text></g>
+    <g class="p4"><rect x="200" y="0" width="64" height="18" rx="9" fill="#534AB7" opacity="0.75"/>
+      <text class="t" x="232" y="13" text-anchor="middle">CoPilot</text></g>
+    <g class="p5"><rect x="272" y="0" width="86" height="18" rx="9" fill="#444441"/>
+      <text class="t" x="315" y="13" text-anchor="middle">TypeScript</text></g>
+    <g class="p6"><rect x="366" y="0" width="98" height="18" rx="9" fill="#444441" opacity="0.8"/>
+      <text class="t" x="415" y="13" text-anchor="middle">Node / NestJS</text></g>
+    <g class="p7"><rect x="472" y="0" width="52" height="18" rx="9" fill="#444441" opacity="0.65"/>
+      <text class="t" x="498" y="13" text-anchor="middle">React</text></g>
+    <g class="p8"><rect x="532" y="0" width="40" height="18" rx="9" fill="#BA7517"/>
+      <text class="t" x="552" y="13" text-anchor="middle">AWS</text></g>
+    <g class="p9"><rect x="580" y="0" width="58" height="18" rx="9" fill="#BA7517" opacity="0.8"/>
+      <text class="t" x="609" y="13" text-anchor="middle">Docker</text></g>
+    <g class="p10"><rect x="646" y="0" width="52" height="18" rx="9" fill="#888780"/>
+      <text class="t" x="672" y="13" text-anchor="middle">Figma</text></g>
+    <g class="p11"><rect x="706" y="0" width="54" height="18" rx="9" fill="#888780" opacity="0.8"/>
+      <text class="t" x="733" y="13" text-anchor="middle">Scrum</text></g>
+  </g>
+</svg>

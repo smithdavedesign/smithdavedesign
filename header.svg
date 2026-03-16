@@ -1,0 +1,102 @@
+<svg viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg" width="860" height="180">
+  <defs>
+    <style>
+      @keyframes fadeUp {
+        from { opacity:0; transform:translateY(10px); }
+        to   { opacity:1; transform:translateY(0); }
+      }
+      @keyframes drawLine {
+        from { stroke-dashoffset:200; }
+        to   { stroke-dashoffset:0; }
+      }
+      @keyframes pulse {
+        0%,100% { opacity:0.12; }
+        50%      { opacity:0.35; }
+      }
+      @keyframes orbit1 {
+        from { transform:rotate(0deg)   translateX(40px) rotate(0deg); }
+        to   { transform:rotate(360deg) translateX(40px) rotate(-360deg); }
+      }
+      @keyframes orbit2 {
+        from { transform:rotate(130deg)  translateX(54px) rotate(-130deg); }
+        to   { transform:rotate(490deg)  translateX(54px) rotate(-490deg); }
+      }
+      @keyframes orbit3 {
+        from { transform:rotate(260deg)  translateX(46px) rotate(-260deg); }
+        to   { transform:rotate(620deg)  translateX(46px) rotate(-620deg); }
+      }
+      @keyframes fadeIn {
+        from { opacity:0; }
+        to   { opacity:1; }
+      }
+      .gl { stroke:#1D9E75; stroke-width:0.5; fill:none; animation:pulse 4s ease-in-out infinite; }
+      .gl2{ animation-delay:1s; }
+      .al { stroke:#1D9E75; stroke-width:2.5; fill:none;
+            stroke-dasharray:200; stroke-dashoffset:200;
+            animation:drawLine 0.9s cubic-bezier(0.22,1,0.36,1) 0.15s forwards; }
+      .nm { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;
+            font-size:38px; font-weight:700; fill:#1a1a2e;
+            animation:fadeUp 0.7s cubic-bezier(0.22,1,0.36,1) 0.1s both; }
+      .tg { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;
+            font-size:12px; fill:#888780;
+            animation:fadeUp 0.7s cubic-bezier(0.22,1,0.36,1) 0.45s both; }
+      .b1g { animation:fadeUp 0.5s ease 0.55s both; }
+      .b2g { animation:fadeUp 0.5s ease 0.68s both; }
+      .b3g { animation:fadeUp 0.5s ease 0.81s both; }
+      .b4g { animation:fadeUp 0.5s ease 0.94s both; }
+      .bt  { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;
+             font-size:11px; font-weight:600; }
+      .oc  { fill:#1D9E75; animation:fadeIn 0.4s ease 1s both; }
+      .or1 { fill:none; stroke:#1D9E75; stroke-width:0.8; opacity:0.3; animation:fadeIn 0.4s ease 1.1s both; }
+      .or2 { fill:none; stroke:#534AB7; stroke-width:0.8; opacity:0.25; animation:fadeIn 0.4s ease 1.2s both; }
+      .or3 { fill:none; stroke:#BA7517; stroke-width:0.8; opacity:0.22; animation:fadeIn 0.4s ease 1.3s both; }
+      .n1  { fill:#1D9E75; transform-origin:790px 88px; animation:orbit1 7s linear 1.2s infinite; }
+      .n2  { fill:#534AB7; transform-origin:790px 88px; animation:orbit2 11s linear 1.4s infinite; }
+      .n3  { fill:#BA7517; transform-origin:790px 88px; animation:orbit3 9s linear 1.6s infinite; }
+      .ol  { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif;
+             font-size:9.5px; fill:#888780; letter-spacing:0.08em;
+             animation:fadeIn 0.6s ease 2s both; }
+    </style>
+    <clipPath id="cl"><rect width="860" height="180" rx="12"/></clipPath>
+  </defs>
+
+  <rect width="860" height="180" rx="12" fill="#f8f8f6"/>
+  <g clip-path="url(#cl)">
+    <line class="gl"  x1="0" y1="60"  x2="860" y2="60"/>
+    <line class="gl"  x1="0" y1="120" x2="860" y2="120"/>
+    <line class="gl gl2" x1="220" y1="0" x2="220" y2="180"/>
+    <line class="gl gl2" x1="440" y1="0" x2="440" y2="180"/>
+    <line class="gl gl2" x1="660" y1="0" x2="660" y2="180"/>
+
+    <line class="al" x1="40" y1="28" x2="40" y2="152"/>
+
+    <text class="nm" x="62" y="78">David George Smith</text>
+    <text class="tg" x="62" y="134">I build the systems that make AI work at scale — and lead the teams that run on them.</text>
+
+    <g class="b1g">
+      <rect x="62"  y="90" width="134" height="22" rx="5" fill="#E1F5EE"/>
+      <text class="bt" x="129" y="105" text-anchor="middle" fill="#085041">Sr. Full Stack Engineer</text>
+    </g>
+    <g class="b2g">
+      <rect x="204" y="90" width="132" height="22" rx="5" fill="#EEEDFE"/>
+      <text class="bt" x="270" y="105" text-anchor="middle" fill="#3C3489">Engineering Manager</text>
+    </g>
+    <g class="b3g">
+      <rect x="344" y="90" width="100" height="22" rx="5" fill="#EEEDFE"/>
+      <text class="bt" x="394" y="105" text-anchor="middle" fill="#3C3489">Product Owner</text>
+    </g>
+    <g class="b4g">
+      <rect x="452" y="90" width="124" height="22" rx="5" fill="#FAEEDA"/>
+      <text class="bt" x="514" y="105" text-anchor="middle" fill="#633806">AI Enablement Lead</text>
+    </g>
+
+    <circle class="or1" cx="790" cy="88" r="40"/>
+    <circle class="or2" cx="790" cy="88" r="54"/>
+    <circle class="or3" cx="790" cy="88" r="47"/>
+    <circle class="oc"  cx="790" cy="88" r="7"/>
+    <circle class="n1"  cx="790" cy="88" r="3.5"/>
+    <circle class="n2"  cx="790" cy="88" r="3"/>
+    <circle class="n3"  cx="790" cy="88" r="2.5"/>
+    <text class="ol" x="790" y="152" text-anchor="middle">MCP · LLM · AI</text>
+  </g>
+</svg>
