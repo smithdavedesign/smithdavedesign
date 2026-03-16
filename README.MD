@@ -19,7 +19,7 @@ Designed and built a real-time dashboard giving CTOs and engineering managers vi
 I lead the engineering team responsible for Solidigm’s corporate site, including the redesign and modernization of the platform. Focus areas include performance, SEO, responsive architecture, content systems, AEM component updates, design tokens, accessibility, and the alignment between design, product, and engineering.  
 This work involves both hands-on engineering and managing execution across an offshore team.
 
-## How I Lead - Manage cross-functional engineering teams (engineers, QA, design, scrum) - Own product roadmaps and sprint planning end-to-end - Translate ambiguous requirements into clear technical direction - Run scrum ceremonies: standups, sprint planning, retros, stakeholder demos - Build AI adoption strategies and measure ROI for executive audiences I combine engineering depth with product ownership — the combination that lets me hold both the technical vision and the business outcome.
+### How I Lead - Manage cross-functional engineering teams (engineers, QA, design, scrum) - Own product roadmaps and sprint planning end-to-end - Translate ambiguous requirements into clear technical direction - Run scrum ceremonies: standups, sprint planning, retros, stakeholder demos - Build AI adoption strategies and measure ROI for executive audiences I combine engineering depth with product ownership — the combination that lets me hold both the technical vision and the business outcome.
 ---
 
 ## How I Work
