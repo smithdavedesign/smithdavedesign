@@ -57,7 +57,7 @@ My path started with early HTML/CSS experiments on Myspace, moved through a Comp
 **Languages:** JavaScript, TypeScript, SCSS, HTML/HTL, Java (AEM), Node.js, Swift, C++  
 **Platforms:** Adobe Experience Manager (6.5), Figma, Jira, Confluence, GitHub Actions  
 **Focus Areas:** architecture, documentation systems, AEM component engineering, design tokens, AI-assisted workflows, CI/CD  
-**Other:** MCP, system design, responsive strategies, technical writing, team leadership
+**Other:** MCP, skills, Workflows, system design, responsive strategies, technical writing, team leadership
 
 ---
 
