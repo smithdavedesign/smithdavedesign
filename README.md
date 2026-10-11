@@ -8,6 +8,20 @@
 
 <br>
 
+## Installation & Usage
+
+This project is a static portfolio website. No installation steps are required to view the content.
+
+To run locally:
+
+1. Ensure you have a static file server available (e.g., [serve](https://www.npmjs.com/package/serve), Python's http.server, or any similar tool).
+2. From the repository root, start the server:
+   - Using npx: `npx serve`
+   - Using Python: `python -m http.server`
+3. Open your browser and navigate to the local URL shown (typically `http://localhost:3000` or `http://localhost:8000`).
+
+Alternatively, the site is already deployed at [smithdavedesign.herokuapp.com](https://smithdavedesign.herokuapp.com/).
+
 ---
 
 ## Current Work
